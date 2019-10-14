@@ -2,4 +2,5 @@ IMPLEMENTATION OF G0-BACK-N(GBN) PROTOCOL
 
 1. It was challenging to do the implementation of packet drop in the program. 
 2. It was equally quite tricky to understand window size implementation but yet quite interesting while learning the topic.
-.
+3. we tried to implement checksum but ended with exception
+
